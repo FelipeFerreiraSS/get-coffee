@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-size: auto 100vh;
+    height: 100vh;
+    font-family: 'Nunito';
+}
+
+header {
+    height: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
