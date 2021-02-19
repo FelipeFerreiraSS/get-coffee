@@ -34,8 +34,8 @@ header img {
     position: absolute;
     width: 527px;
     height: 147px;
-    left: 160px;
-    top: 289px;
+    left: 100px;
+    top: 189px;
 
     font-family: Nunito;
     font-style: normal;
@@ -50,16 +50,16 @@ header img {
     position: absolute;
 width: 182px;
 height: 305px;
-left: 1034px;
-top: 283px;
+left: 970px;
+top: 83px;
 }
 
 #button {
     position: absolute;
     width: 290px;
     height: 60px;
-    left: 160px;
-    top: 518px;
+    left: 100px;
+    top: 260px;
 
     background: #FCA60F;
     border-radius: 5px;
@@ -70,14 +70,16 @@ top: 283px;
     font-size: 24px;
     line-height: 33px;
     color: white;
+
+    cursor: pointer;
 }
 
 .rede_social {
     position: absolute;
     width: 105.42px;
     height: 23.86px;
-    left: 169.1px;
-    top: 611px;
+    left: 190px;
+    top: 320px;
 }
 
 #forma1 {
