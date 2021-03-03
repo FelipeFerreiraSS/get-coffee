@@ -1,84 +1,98 @@
-<br />
-<p align="center">
-    <img src="https://raw.githubusercontent.com/lucianesantcs/get-coffee/master/design/mockup.png" alt="Get Coffee Design" width="960">
+<div align="center" id="top"> 
+  <img src="./.github/app.gif" alt="Get Coffee" />
 
-  <h3 align="center">Get Coffee</h3>
- <br />
-  <p align="center">
-     Landing page de uma cafeteria online
-       <br />
-    <br />
-    Desafio
-    ·
-    <a href="https://devchallenge.com.br/">DevChallenge</a>
-  </p>
+  &#xa0;
+
+  <!-- <a href="https://getcoffee.netlify.app">Demo</a> -->
+</div>
+
+<h1 align="center">Get Coffee</h1>
+
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/get-coffee?color=56BEB8">
+
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/get-coffee?color=56BEB8">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/get-coffee?color=56BEB8">
+
+  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/get-coffee?color=56BEB8">
+
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/get-coffee?color=56BEB8" /> -->
+
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/get-coffee?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/get-coffee?color=56BEB8" /> -->
 </p>
 
-## Índice
+<!-- Status -->
 
-- [Devchallenge](#devchallenge)
-- [Desafio](#desafio)
-- [Techs](#techs)
-- [Como começar](#como-começar)
-- [Dicas](#dicas)
-  - [Cores](#cores)
-  - [Modelo](#modelo)
-  - [Tipo de fonte](#tipo-de-fonte)
-- [Compartilhe](#compartilhe)
+<!-- <h4 align="center"> 
+	🚧  Get Coffee 🚀 Under construction...  🚧
+</h4> 
 
-# Devchallenge
+<hr> -->
 
-<a href="https://devchallenge.com.br/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a>
+<p align="center">
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+</p>
 
-# Desafio
+<br>
 
-Deverá recriar a landing page o mais fiel possível do modelo original, tanto para desktop e mobile. O modelo final está disponível na pasta "design"
+## :dart: About ##
 
-## Opcional:
+Describe your project
 
-Apenas se tiver conhecimento ou quiser ir além, poderá criar as páginas restantes de menu (pode conter apenas um ou dois produtos), contact (pode ser um formulário simples), e find us (apenas um endereço fictício com uma foto do google maps)
+## :sparkles: Features ##
 
-# Techs:
+:heavy_check_mark: Feature 1;\
+:heavy_check_mark: Feature 2;\
+:heavy_check_mark: Feature 3;
 
-- HTML
-- CSS
+## :rocket: Technologies ##
 
-# Como começar:
+The following tools were used in this project:
 
-1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar!<br>
-4 - Compartilhe seu resultado com a comunidade!
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-# Dicas
+## :white_check_mark: Requirements ##
 
-## Cores:
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
-Preto: #0242424<br>
-Amarelo: #FCA60F<br>
-Marrom: #C95E20<br>
+## :checkered_flag: Starting ##
 
-## Modelo:
+```bash
+# Clone this project
+$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/get-coffee
 
-O modelo final de desktop e mobile estão disponíveis na pasta `./design`<br>
-Imagens disponíveis na pasta `./assets` <br>
-<a href="https://www.figma.com/file/lVkh41YvYiMposXwaJXOYO/get-coffee-layout?node-id=0%3A1">Figma Layout</a>
+# Access
+$ cd get-coffee
 
-## Tipo de fonte:
+# Install dependencies
+$ yarn
 
-- Nunito: Semi-bold 600, Bold 700
+# Run the project
+$ yarn start
 
-# Compartilhe!
+# The server will initialize in the <http://localhost:3000>
+```
 
-Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-Faça um print, gif ou vídeo e compartilhe o resultado com a #devchallenge ou marcando nosso perfil @devchallenge!<br>
+## :memo: License ##
 
-Design criado por <a href="https://www.linkedin.com/in/lucianesantcs/">Luciane Santos</a>
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-# Comunidade DevChallenge
 
-- <a href="https://devchallenge.com.br/">DevChallenge</a>
-- <a href="https://discord.gg/yvYXhGj">Discord</a>
-- <a href="https://www.linkedin.com/company/devchallenge/">Linkedin</a>
-- <a href="https://twitter.com/dev_challenge">Twitter</a>
-- <a href="https://www.instagram.com/devchallenge/">Instagram</a>
+Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+
+&#xa0;
+
+<a href="#top">Back to top</a>
